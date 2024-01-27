@@ -1,5 +1,4 @@
 # Leetcode_Studies
 
-📚 Welcome to my LeetCode corner! I'm dedicated to honing my problem-solving skills and expanding my coding prowess through weekly LeetCode challenges. My journey involves delving into algorithmic problems and sharing insights from my learning process.
+📚 Here, I focus on improving my problem-solving abilities and coding skills through weekly LeetCode challenges. I explore algorithmic problems and share insights from my learning journey.
 
-🔍 Follow my profile for regular updates on my weekly LeetCode studies.
