@@ -1,4 +1,4 @@
 # Leetcode_Studies
 
-Some algorithmic problems and insights from my learning journey.
+Sample algorithmic problems and insights from my learning journey.
 
